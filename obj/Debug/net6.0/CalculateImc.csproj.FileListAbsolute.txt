@@ -1,0 +1,15 @@
+C:\Users\DELTA\source\repos\CarnavalBalta\CalculateImc\bin\Debug\net6.0\CalculateImc.exe
+C:\Users\DELTA\source\repos\CarnavalBalta\CalculateImc\bin\Debug\net6.0\CalculateImc.deps.json
+C:\Users\DELTA\source\repos\CarnavalBalta\CalculateImc\bin\Debug\net6.0\CalculateImc.runtimeconfig.json
+C:\Users\DELTA\source\repos\CarnavalBalta\CalculateImc\bin\Debug\net6.0\CalculateImc.dll
+C:\Users\DELTA\source\repos\CarnavalBalta\CalculateImc\bin\Debug\net6.0\CalculateImc.pdb
+C:\Users\DELTA\source\repos\CarnavalBalta\CalculateImc\obj\Debug\net6.0\CalculateImc.csproj.AssemblyReference.cache
+C:\Users\DELTA\source\repos\CarnavalBalta\CalculateImc\obj\Debug\net6.0\CalculateImc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELTA\source\repos\CarnavalBalta\CalculateImc\obj\Debug\net6.0\CalculateImc.AssemblyInfoInputs.cache
+C:\Users\DELTA\source\repos\CarnavalBalta\CalculateImc\obj\Debug\net6.0\CalculateImc.AssemblyInfo.cs
+C:\Users\DELTA\source\repos\CarnavalBalta\CalculateImc\obj\Debug\net6.0\CalculateImc.csproj.CoreCompileInputs.cache
+C:\Users\DELTA\source\repos\CarnavalBalta\CalculateImc\obj\Debug\net6.0\CalculateImc.dll
+C:\Users\DELTA\source\repos\CarnavalBalta\CalculateImc\obj\Debug\net6.0\refint\CalculateImc.dll
+C:\Users\DELTA\source\repos\CarnavalBalta\CalculateImc\obj\Debug\net6.0\CalculateImc.pdb
+C:\Users\DELTA\source\repos\CarnavalBalta\CalculateImc\obj\Debug\net6.0\CalculateImc.genruntimeconfig.cache
+C:\Users\DELTA\source\repos\CarnavalBalta\CalculateImc\obj\Debug\net6.0\ref\CalculateImc.dll
