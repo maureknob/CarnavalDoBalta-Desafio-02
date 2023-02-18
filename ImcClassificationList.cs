@@ -25,10 +25,10 @@
                 .Add(new ImcClassification("Obesidade Grau I", 30, 34.9f, "Moderado"));
 
             Classifications
-                .Add(new ImcClassification("Obesidade Grau I", 30, 34.9f, "Grave"));
+                .Add(new ImcClassification("Obesidade Grau II", 35, 40, "Grave"));
 
             Classifications
-                .Add(new ImcClassification("Obesidade Grau I", 30, 34.9f, "Muito Grave"));
+                .Add(new ImcClassification("Obesidade Grau III", 41, 999, "Muito Grave"));
 
             return Classifications;
         }
